@@ -1,0 +1,42 @@
+#dlButton{margin-left: 0px; margin-bottom: 5px; margin-top: 25px; z-index:1001; position:absolute; left: 15px; top: 70px; width:32px; height:32px; background-color:#fff; border:0; padding:0; transition:background-color 125ms ease-in-out; box-shadow:0 1px 2px rgba(0, 0, 0, 0.3)}
+
+#dlButton:hover {
+background-color:#f0f0f0;
+box-shadow:0 0 1px 0 black;
+color:#2e2e2e;
+cursor:pointer;
+border:0;
+}
+
+.esri-icon-download {
+font-size:16px;
+}
+
+
+#upButton{margin-left: 10px; margin-bottom: 5px; margin-top: 540px; z-index:1001; position:absolute; left: 15px; top: 70px; width:32px; height:32px; background-color:#fff; border:0; padding:0; transition:background-color 125ms ease-in-out; box-shadow:0 1px 2px rgba(0, 0, 0, 0.3)}
+
+#upButton:hover {
+background-color:#f0f0f0;
+box-shadow:0 0 1px 0 black;
+color:#2e2e2e;
+cursor:pointer;
+border:0;
+}
+
+.esri-icon-upload {
+font-size:16px;
+}
+
+
+/* form {
+  margin-left: 10px;
+} */
+
+label {
+  font-weight: bold;
+  font-size: 14px;
+}
+
+#SubmissionForm {
+  background-color: white;
+}
